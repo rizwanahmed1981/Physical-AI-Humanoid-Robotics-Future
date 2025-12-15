@@ -1,59 +1,59 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/physical-ai-humanoid-robotics-future/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/physical-ai-humanoid-robotics-future/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "chapters/chapter1",
-              "path": "/docs/chapters/chapter1",
+              "path": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter1",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "chapters/template",
-              "path": "/docs/chapters/template"
+              "path": "/physical-ai-humanoid-robotics-future/docs/chapters/template"
             },
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/physical-ai-humanoid-robotics-future/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "quizzes/chapter1-section1",
-              "path": "/docs/quizzes/chapter1-section1"
+              "path": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-section1"
             },
             {
               "id": "quizzes/chapter1-section2",
-              "path": "/docs/quizzes/chapter1-section2"
+              "path": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-section2"
             },
             {
               "id": "quizzes/chapter1-section3",
-              "path": "/docs/quizzes/chapter1-section3"
+              "path": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-section3"
             },
             {
               "id": "quizzes/chapter1-section4",
-              "path": "/docs/quizzes/chapter1-section4"
+              "path": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-section4"
             },
             {
               "id": "quizzes/chapter1-section5",
-              "path": "/docs/quizzes/chapter1-section5"
+              "path": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-section5"
             },
             {
               "id": "quizzes/chapter1-sections",
-              "path": "/docs/quizzes/chapter1-sections"
+              "path": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-sections"
             }
           ],
           "draftIds": [],
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/physical-ai-humanoid-robotics-future/docs/intro",
                 "label": "intro"
               }
             }

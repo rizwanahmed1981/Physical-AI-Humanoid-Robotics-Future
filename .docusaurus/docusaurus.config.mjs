@@ -7,10 +7,10 @@ export default {
   "title": "Physical-AI-Humanoid-Robotics-Future",
   "tagline": "Bridging Digital AI with Embodied Intelligence",
   "favicon": "img/favicon.ico",
-  "url": "https://your-domain.docusaurus.io",
-  "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "url": "https://rizwanahmed1981.github.io",
+  "baseUrl": "/physical-ai-humanoid-robotics-future/",
+  "organizationName": "rizwanahmed1981",
+  "projectName": "physical-ai-humanoid-robotics-future",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -27,7 +27,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future/edit/main/"
         },
         "blog": false,
         "theme": {
@@ -52,7 +52,7 @@ export default {
           "label": "Textbook"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future",
           "label": "GitHub",
           "position": "right"
         }
@@ -89,7 +89,7 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future"
             }
           ]
         }
