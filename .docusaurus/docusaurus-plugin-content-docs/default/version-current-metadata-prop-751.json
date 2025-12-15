@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Introduction",
-        "href": "/docs/intro",
+        "href": "/physical-ai-humanoid-robotics-future/docs/intro",
         "docId": "intro",
         "unlisted": false
       },
@@ -23,7 +23,7 @@
           {
             "type": "link",
             "label": "Chapter 1 - Foundations of Physical AI",
-            "href": "/docs/chapters/chapter1",
+            "href": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter1",
             "docId": "chapters/chapter1",
             "unlisted": false
           }

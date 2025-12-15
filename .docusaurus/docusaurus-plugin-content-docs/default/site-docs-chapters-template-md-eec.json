@@ -5,10 +5,10 @@
   "source": "@site/docs/chapters/template.md",
   "sourceDirName": "chapters",
   "slug": "/chapters/template",
-  "permalink": "/docs/chapters/template",
+  "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/template",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chapters/template.md",
+  "editUrl": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future/edit/main/docs/chapters/template.md",
   "tags": [],
   "version": "current",
   "frontMatter": {

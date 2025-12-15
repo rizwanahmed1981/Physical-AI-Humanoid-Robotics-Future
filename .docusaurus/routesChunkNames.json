@@ -1,94 +1,51 @@
 {
-  "/__docusaurus/debug-65e": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/physical-ai-humanoid-robotics-future/docs-9ec": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docusaurus-debugbb-1-f58"
+      "plugin": "6cfccef5"
     }
   },
-  "/__docusaurus/debug/config-bea": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugbb-1-f58"
-    }
+  "/physical-ai-humanoid-robotics-future/docs-f2b": {
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
   },
-  "/__docusaurus/debug/content-915": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugbb-1-f58"
-    },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  "/physical-ai-humanoid-robotics-future/docs-660": {
+    "__comp": "a94703ab"
   },
-  "/__docusaurus/debug/globalData-c05": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugbb-1-f58"
-    }
+  "/physical-ai-humanoid-robotics-future/docs/chapters/chapter1-74a": {
+    "__comp": "17896441",
+    "content": "cc0c3b80"
   },
-  "/__docusaurus/debug/metadata-846": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugbb-1-f58"
-    }
+  "/physical-ai-humanoid-robotics-future/docs/chapters/template-fd2": {
+    "__comp": "17896441",
+    "content": "eec94de5"
   },
-  "/__docusaurus/debug/registry-3a4": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugbb-1-f58"
-    }
+  "/physical-ai-humanoid-robotics-future/docs/intro-e16": {
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
-  "/__docusaurus/debug/routes-c6f": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugbb-1-f58"
-    }
+  "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-section1-23a": {
+    "__comp": "17896441",
+    "content": "729f6499"
   },
-  "/docs-959": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
-    "__context": {
-      "plugin": "plugin---docs-6-cf-8b9"
-    }
+  "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-section2-5fb": {
+    "__comp": "17896441",
+    "content": "25e6d8fd"
   },
-  "/docs-f3f": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "version": "version---docs-935-398"
+  "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-section3-cd7": {
+    "__comp": "17896441",
+    "content": "c2089f2c"
   },
-  "/docs-6cd": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-section4-ef7": {
+    "__comp": "17896441",
+    "content": "d88ba316"
   },
-  "/docs/chapters/chapter1-274": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-chapters-chapter-1-cc-0-ecc"
+  "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-section5-82e": {
+    "__comp": "17896441",
+    "content": "32d04ea7"
   },
-  "/docs/chapters/template-673": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-chapters-templateeec-afd"
-  },
-  "/docs/intro-aed": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
-  },
-  "/docs/quizzes/chapter1-section1-d26": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-quizzes-chapter-1-section-1729-d76"
-  },
-  "/docs/quizzes/chapter1-section2-4d9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-quizzes-chapter-1-section-225-e-e1e"
-  },
-  "/docs/quizzes/chapter1-section3-98b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-quizzes-chapter-1-section-3-c-20-f9f"
-  },
-  "/docs/quizzes/chapter1-section4-4f9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-quizzes-chapter-1-section-4-d-88-c1b"
-  },
-  "/docs/quizzes/chapter1-section5-04c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-quizzes-chapter-1-section-532-d-7a7"
-  },
-  "/docs/quizzes/chapter1-sections-968": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-quizzes-chapter-1-sectionsfd-4-693"
+  "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-sections-4ed": {
+    "__comp": "17896441",
+    "content": "fd4ca57e"
   }
 }

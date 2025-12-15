@@ -9,10 +9,10 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/docs",
-          "tagsPath": "/docs/tags",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
-          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "path": "/physical-ai-humanoid-robotics-future/docs",
+          "tagsPath": "/physical-ai-humanoid-robotics-future/docs/tags",
+          "editUrl": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future/edit/main/docs",
+          "editUrlLocalized": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future/edit/main/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/home/ecomw/ai-native-book-phase1/sidebars.js",
@@ -26,10 +26,10 @@
               "source": "@site/docs/chapters/chapter1.md",
               "sourceDirName": "chapters",
               "slug": "/chapters/chapter1",
-              "permalink": "/docs/chapters/chapter1",
+              "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter1",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chapters/chapter1.md",
+              "editUrl": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future/edit/main/docs/chapters/chapter1.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -39,7 +39,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Introduction",
-                "permalink": "/docs/intro"
+                "permalink": "/physical-ai-humanoid-robotics-future/docs/intro"
               }
             },
             {
@@ -49,10 +49,10 @@
               "source": "@site/docs/chapters/template.md",
               "sourceDirName": "chapters",
               "slug": "/chapters/template",
-              "permalink": "/docs/chapters/template",
+              "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/template",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chapters/template.md",
+              "editUrl": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future/edit/main/docs/chapters/template.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -67,10 +67,10 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/docs/intro",
+              "permalink": "/physical-ai-humanoid-robotics-future/docs/intro",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "editUrl": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future/edit/main/docs/intro.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -80,7 +80,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Chapter 1 - Foundations of Physical AI",
-                "permalink": "/docs/chapters/chapter1"
+                "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter1"
               }
             },
             {
@@ -90,10 +90,10 @@
               "source": "@site/docs/quizzes/chapter1-section1.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter1-section1",
-              "permalink": "/docs/quizzes/chapter1-section1",
+              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-section1",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/quizzes/chapter1-section1.md",
+              "editUrl": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future/edit/main/docs/quizzes/chapter1-section1.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -107,10 +107,10 @@
               "source": "@site/docs/quizzes/chapter1-section2.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter1-section2",
-              "permalink": "/docs/quizzes/chapter1-section2",
+              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-section2",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/quizzes/chapter1-section2.md",
+              "editUrl": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future/edit/main/docs/quizzes/chapter1-section2.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -124,10 +124,10 @@
               "source": "@site/docs/quizzes/chapter1-section3.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter1-section3",
-              "permalink": "/docs/quizzes/chapter1-section3",
+              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-section3",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/quizzes/chapter1-section3.md",
+              "editUrl": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future/edit/main/docs/quizzes/chapter1-section3.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -141,10 +141,10 @@
               "source": "@site/docs/quizzes/chapter1-section4.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter1-section4",
-              "permalink": "/docs/quizzes/chapter1-section4",
+              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-section4",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/quizzes/chapter1-section4.md",
+              "editUrl": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future/edit/main/docs/quizzes/chapter1-section4.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -158,10 +158,10 @@
               "source": "@site/docs/quizzes/chapter1-section5.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter1-section5",
-              "permalink": "/docs/quizzes/chapter1-section5",
+              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-section5",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/quizzes/chapter1-section5.md",
+              "editUrl": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future/edit/main/docs/quizzes/chapter1-section5.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -175,10 +175,10 @@
               "source": "@site/docs/quizzes/chapter1-sections.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter1-sections",
-              "permalink": "/docs/quizzes/chapter1-sections",
+              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-sections",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/quizzes/chapter1-sections.md",
+              "editUrl": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future/edit/main/docs/quizzes/chapter1-sections.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
