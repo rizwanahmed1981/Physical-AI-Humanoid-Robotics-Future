@@ -5,7 +5,7 @@
   "source": "@site/docs/chapters/chapter1.md",
   "sourceDirName": "chapters",
   "slug": "/chapters/chapter1",
-  "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter1",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter1",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/chapters/chapter1.md",
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Chapter 2 - The Robotic Nervous System (ROS 2)",
-    "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter2"
+    "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter2"
   }
 }

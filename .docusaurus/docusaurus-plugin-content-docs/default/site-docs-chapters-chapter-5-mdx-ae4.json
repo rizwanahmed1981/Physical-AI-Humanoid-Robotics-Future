@@ -5,7 +5,7 @@
   "source": "@site/docs/chapters/chapter5.mdx",
   "sourceDirName": "chapters",
   "slug": "/chapters/chapter5",
-  "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter5",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter5",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/chapters/chapter5.mdx",
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chapter 4 - The AI Brain with NVIDIA Isaac",
-    "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter4"
+    "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter4"
   }
 }

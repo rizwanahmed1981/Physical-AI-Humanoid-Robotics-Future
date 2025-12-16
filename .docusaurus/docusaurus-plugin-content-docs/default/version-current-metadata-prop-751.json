@@ -16,35 +16,35 @@
           {
             "type": "link",
             "label": "Chapter 1 - Foundations of Physical AI",
-            "href": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter1",
+            "href": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter1",
             "docId": "chapters/chapter1",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Chapter 2 - The Robotic Nervous System (ROS 2)",
-            "href": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter2",
+            "href": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter2",
             "docId": "chapters/chapter2",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Chapter 3 - Digital Twins and Simulation",
-            "href": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter3",
+            "href": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter3",
             "docId": "chapters/chapter3",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Chapter 4 - The AI Brain with NVIDIA Isaac",
-            "href": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter4",
+            "href": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter4",
             "docId": "chapters/chapter4",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Chapter 5 - Vision–Language–Action Systems",
-            "href": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter5",
+            "href": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter5",
             "docId": "chapters/chapter5",
             "unlisted": false
           }
