@@ -1,134 +1,132 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import styles from './styles.module.css';
+import styles from './cinematic-homepage.module.css';
 
-function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
+
+// Simple particle animation component
+function ParticleBackground() {
+  const [particles, setParticles] = useState([]);
+
+  useEffect(() => {
+    // Generate random particles
+    const generateParticles = () => {
+      const newParticles = [];
+      for (let i = 0; i < 50; i++) {
+        newParticles.push({
+          id: i,
+          x: Math.random() * 100,
+          y: Math.random() * 100,
+          size: Math.random() * 3 + 1,
+          speed: Math.random() * 0.5 + 0.1,
+        });
+      }
+      setParticles(newParticles);
+    };
+
+    generateParticles();
+  }, []);
+
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">Bridging Digital AI with Embodied Intelligence</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/chapters/chapter1">
-            Start Learning Chapter 1
-          </Link>
-        </div>
+    <div className={styles.particlesContainer}>
+      {particles.map((particle) => (
+        <div
+          key={particle.id}
+          className={styles.particle}
+          style={{
+            left: `${particle.x}%`,
+            top: `${particle.y}%`,
+            width: `${particle.size}px`,
+            height: `${particle.size}px`,
+            opacity: Math.random() * 0.5 + 0.1,
+          }}
+        />
+      ))}
+    </div>
+  );
+}
+
+// Scroll indicator component
+function ScrollIndicator() {
+  return (
+    <div className={styles.scrollIndicator}>
+      <div className={styles.scrollArrow}></div>
+    </div>
+  );
+}
+
+// Chapter module component
+function ChapterModule({ number, title, to }) {
+  return (
+    <Link to={to} className={styles.chapterLink}>
+      <div className={styles.chapterModule}>
+        <div className={styles.chapterNumber}>{number}</div>
+        <div className={styles.chapterTitle}>{title}</div>
       </div>
-    </header>
+    </Link>
   );
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
+
+  // Define chapters as system modules
+  const chapters = [
+    { number: '01', title: 'Foundations of Physical AI', to: '/docs/chapters/chapter1' },
+    { number: '02', title: 'The Robotic Nervous System (ROS 2)', to: '/docs/chapters/chapter2' },
+    { number: '03', title: 'Digital Twins and Simulation', to: '/docs/chapters/chapter3' },
+    { number: '04', title: 'The AI Brain with NVIDIA Isaac', to: '/docs/chapters/chapter4' },
+    { number: '05', title: 'Vision–Language–Action Systems', to: '/docs/chapters/chapter5' },
+    { number: '06', title: 'Capstone Project - Simulated Autonomous Humanoid Robot', to: '/docs/chapters/chapter6' },
+  ];
 
   return (
-    <div>
-      <HomepageHeader />
-      <main>
-        <div className="container">
-          <div className="row">
-            <div className="col col--6">
-              <div className="card">
-                <div className="card__header">
-                  <h3>Chapter 1: Foundations of Physical AI</h3>
-                </div>
-                <div className="card__body">
-                  <p>Explore the fundamental concepts of Physical AI and embodied intelligence. Understand how artificial intelligence moves from abstract algorithms to tangible, physical manifestations.</p>
-                </div>
-                <div className="card__footer">
-                  <Link to="/docs/chapters/chapter1" className="button button--secondary">
-                    Read Chapter 1
-                  </Link>
-                </div>
-              </div>
-            </div>
-            <div className="col col--6">
-              <div className="card">
-                <div className="card__header">
-                  <h3>Chapter 2: The Robotic Nervous System (ROS 2)</h3>
-                </div>
-                <div className="card__body">
-                  <p>Dive into the Robot Operating System 2 (ROS 2) - the foundational infrastructure that enables communication between robot components and AI algorithms.</p>
-                </div>
-                <div className="card__footer">
-                  <Link to="/docs/chapters/chapter2" className="button button--secondary">
-                    Read Chapter 2
-                  </Link>
-                </div>
-              </div>
-            </div>
+    <div className={styles.homepage}>
+      {/* Particle Background */}
+      <ParticleBackground />
+
+      {/* Hero Section */}
+      <div className={styles.heroSection}>
+        <div className={styles.heroContent}>
+          <div className={styles.heroText}>
+            <h1 className={styles.heroTitle}>Physical AI & Humanoid Robotics</h1>
+            <p className={styles.heroSubtitle}>Bridging Digital AI with Embodied Intelligence</p>
+            <Link to="/docs/chapters/chapter1" className={styles.ctaButton}>
+              Enter the Physical AI World
+            </Link>
           </div>
-          <div className="row" style={{marginTop: '20px'}}>
-            <div className="col col--6">
-              <div className="card">
-                <div className="card__header">
-                  <h3>Chapter 3: Digital Twins and Simulation</h3>
-                </div>
-                <div className="card__body">
-                  <p>Discover how digital twins and simulation enable the safe, efficient, and iterative development of Physical AI systems using tools like Isaac Sim and Unity.</p>
-                </div>
-                <div className="card__footer">
-                  <Link to="/docs/chapters/chapter3" className="button button--secondary">
-                    Read Chapter 3
-                  </Link>
-                </div>
-              </div>
-            </div>
-            <div className="col col--6">
-              <div className="card">
-                <div className="card__header">
-                  <h3>Chapter 4: The AI Brain with NVIDIA Isaac</h3>
-                </div>
-                <div className="card__body">
-                  <p>Explore how the "AI brain" powers humanoid robots through NVIDIA Isaac, including perception, planning, and control systems.</p>
-                </div>
-                <div className="card__footer">
-                  <Link to="/docs/chapters/chapter4" className="button button--secondary">
-                    Read Chapter 4
-                  </Link>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="row" style={{marginTop: '20px'}}>
-            <div className="col col--6">
-              <div className="card">
-                <div className="card__header">
-                  <h3>Chapter 5: Vision–Language–Action Systems</h3>
-                </div>
-                <div className="card__body">
-                  <p>Understand how vision, language, and action work together in modern robotics to enable robots to perceive, understand, and interact with physical environments through natural language commands.</p>
-                </div>
-                <div className="card__footer">
-                  <Link to="/docs/chapters/chapter5" className="button button--secondary">
-                    Read Chapter 5
-                  </Link>
-                </div>
-              </div>
-            </div>
-            <div className="col col--6">
-              <div className="card">
-                <div className="card__header">
-                  <h3>Chapter 6: Capstone Project - Simulated Autonomous Humanoid Robot</h3>
-                </div>
-                <div className="card__body">
-                  <p>Integrate all concepts from the textbook into a complete, simulated autonomous humanoid robot system. This final project demonstrates how all components work together in a cohesive system.</p>
-                </div>
-                <div className="card__footer">
-                  <Link to="/docs/chapters/chapter6" className="button button--secondary">
-                    Read Chapter 6
-                  </Link>
-                </div>
-              </div>
-            </div>
+          <div className={styles.heroImagePlaceholder}>
+            <img
+              src={useBaseUrl('/img/home-page-image.png')}
+              alt="Human transforming into humanoid robot"
+              className={styles.heroImage}
+            />
           </div>
         </div>
-      </main>
+      </div>
+
+      {/* Scroll Indicator */}
+      <ScrollIndicator />
+
+      {/* System Modules Section */}
+      <div className={styles.modulesSection}>
+        <div className={styles.modulesContainer}>
+          <h2 className={styles.modulesTitle}>Chapters</h2>
+          <div className={styles.modulesGrid}>
+            {chapters.map((chapter, index) => (
+              <ChapterModule
+                key={index}
+                number={chapter.number}
+                title={chapter.title}
+                to={chapter.to}
+              />
+            ))}
+          </div>
+        </div>
+      </div>
     </div>
   );
 }
