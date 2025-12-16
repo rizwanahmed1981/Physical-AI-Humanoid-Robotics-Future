@@ -15,5 +15,9 @@
     "title": "Chapter 1 - Foundations of Physical AI",
     "sidebar_label": "Chapter 1 - Foundations of Physical AI"
   },
-  "sidebar": "tutorialSidebar"
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Chapter 2 - The Robotic Nervous System (ROS 2)",
+    "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter2"
+  }
 }

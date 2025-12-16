@@ -36,7 +36,34 @@
                 "title": "Chapter 1 - Foundations of Physical AI",
                 "sidebar_label": "Chapter 1 - Foundations of Physical AI"
               },
-              "sidebar": "tutorialSidebar"
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Chapter 2 - The Robotic Nervous System (ROS 2)",
+                "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter2"
+              }
+            },
+            {
+              "id": "chapters/chapter2",
+              "title": "Chapter 2 - The Robotic Nervous System (ROS 2)",
+              "description": "In Chapter 1, we explored the fundamental concepts of Physical AI and embodied intelligence. Now we dive into the practical infrastructure that enables these concepts to come to life: the Robot Operating System 2, or ROS 2. Just as our biological nervous system coordinates our body's responses, ROS 2 serves as the nervous system for modern robots, orchestrating communication between sensors, actuators, and control systems.",
+              "source": "@site/docs/chapters/chapter2.mdx",
+              "sourceDirName": "chapters",
+              "slug": "/chapters/chapter2",
+              "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter2",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future/edit/main/docs/chapters/chapter2.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Chapter 2 - The Robotic Nervous System (ROS 2)",
+                "sidebar_label": "Chapter 2 - The Robotic Nervous System (ROS 2)"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 1 - Foundations of Physical AI",
+                "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter1"
+              }
             },
             {
               "id": "chapters/template",
@@ -157,6 +184,114 @@
               "frontMatter": {
                 "title": "Chapter 1 Comprehensive Quiz"
               }
+            },
+            {
+              "id": "quizzes/chapter2-section1",
+              "title": "Chapter 2 Section 1 Quiz - Why ROS 2 Exists",
+              "description": "<MCQQuiz",
+              "source": "@site/docs/quizzes/chapter2-section1.md",
+              "sourceDirName": "quizzes",
+              "slug": "/quizzes/chapter2-section1",
+              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter2-section1",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future/edit/main/docs/quizzes/chapter2-section1.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Chapter 2 Section 1 Quiz - Why ROS 2 Exists",
+                "sidebar_label": "Chapter 2 Section 1 Quiz"
+              }
+            },
+            {
+              "id": "quizzes/chapter2-section2",
+              "title": "Chapter 2 Section 2 Quiz - The Robot-as-a-Nervous-System Mental Model",
+              "description": "<MCQQuiz",
+              "source": "@site/docs/quizzes/chapter2-section2.md",
+              "sourceDirName": "quizzes",
+              "slug": "/quizzes/chapter2-section2",
+              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter2-section2",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future/edit/main/docs/quizzes/chapter2-section2.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Chapter 2 Section 2 Quiz - The Robot-as-a-Nervous-System Mental Model",
+                "sidebar_label": "Chapter 2 Section 2 Quiz"
+              }
+            },
+            {
+              "id": "quizzes/chapter2-section3",
+              "title": "Chapter 2 Section 3 Quiz - Understanding Nodes, Topics, Services, and Actions",
+              "description": "<MCQQuiz",
+              "source": "@site/docs/quizzes/chapter2-section3.md",
+              "sourceDirName": "quizzes",
+              "slug": "/quizzes/chapter2-section3",
+              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter2-section3",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future/edit/main/docs/quizzes/chapter2-section3.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Chapter 2 Section 3 Quiz - Understanding Nodes, Topics, Services, and Actions",
+                "sidebar_label": "Chapter 2 Section 3 Quiz"
+              }
+            },
+            {
+              "id": "quizzes/chapter2-section4",
+              "title": "Chapter 2 Section 4 Quiz - Connecting Python-Based AI Logic to Robot Control",
+              "description": "<MCQQuiz",
+              "source": "@site/docs/quizzes/chapter2-section4.md",
+              "sourceDirName": "quizzes",
+              "slug": "/quizzes/chapter2-section4",
+              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter2-section4",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future/edit/main/docs/quizzes/chapter2-section4.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Chapter 2 Section 4 Quiz - Connecting Python-Based AI Logic to Robot Control",
+                "sidebar_label": "Chapter 2 Section 4 Quiz"
+              }
+            },
+            {
+              "id": "quizzes/chapter2-section5",
+              "title": "Chapter 2 Section 5 Quiz - Introduction to URDF",
+              "description": "<MCQQuiz",
+              "source": "@site/docs/quizzes/chapter2-section5.md",
+              "sourceDirName": "quizzes",
+              "slug": "/quizzes/chapter2-section5",
+              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter2-section5",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future/edit/main/docs/quizzes/chapter2-section5.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Chapter 2 Section 5 Quiz - Introduction to URDF",
+                "sidebar_label": "Chapter 2 Section 5 Quiz"
+              }
+            },
+            {
+              "id": "quizzes/chapter2-sections",
+              "title": "Chapter 2 Comprehensive Quiz",
+              "description": "<MCQQuiz",
+              "source": "@site/docs/quizzes/chapter2-sections.md",
+              "sourceDirName": "quizzes",
+              "slug": "/quizzes/chapter2-sections",
+              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter2-sections",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future/edit/main/docs/quizzes/chapter2-sections.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Chapter 2 Comprehensive Quiz",
+                "sidebar_label": "Chapter 2 Comprehensive Quiz"
+              }
             }
           ],
           "drafts": [],
@@ -169,6 +304,10 @@
                   {
                     "type": "doc",
                     "id": "chapters/chapter1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chapters/chapter2"
                   }
                 ],
                 "collapsed": true,
@@ -181,7 +320,13 @@
     }
   },
   "docusaurus-plugin-content-pages": {
-    "default": null
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/physical-ai-humanoid-robotics-future/",
+        "source": "@site/src/pages/index.jsx"
+      }
+    ]
   },
   "docusaurus-plugin-debug": {},
   "docusaurus-theme-classic": {},
