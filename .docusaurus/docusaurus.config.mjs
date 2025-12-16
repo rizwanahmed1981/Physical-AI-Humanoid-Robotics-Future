@@ -68,6 +68,10 @@ export default {
             {
               "label": "Chapter 1: Foundations of Physical AI",
               "to": "/docs/chapters/chapter1"
+            },
+            {
+              "label": "Chapter 2: The Robotic Nervous System (ROS 2)",
+              "to": "/docs/chapters/chapter2"
             }
           ]
         },
