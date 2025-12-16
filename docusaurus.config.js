@@ -12,11 +12,11 @@ const config = {
   url: 'https://rizwanahmed1981.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/physical-ai-humanoid-robotics-future/',
+  baseUrl: '/Physical-AI-Humanoid-Robotics-Future/',
 
   // GitHub pages deployment config.
   organizationName: 'rizwanahmed1981', // Usually your GitHub org/user name.
-  projectName: 'physical-ai-humanoid-robotics-future', // Usually your repo name.
+  projectName: 'Physical-AI-Humanoid-Robotics-Future', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
