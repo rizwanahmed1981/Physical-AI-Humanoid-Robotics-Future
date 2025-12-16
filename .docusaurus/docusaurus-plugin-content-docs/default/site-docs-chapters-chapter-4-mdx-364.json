@@ -14,5 +14,10 @@
   "frontMatter": {
     "title": "Chapter 4 - The AI Brain with NVIDIA Isaac",
     "sidebar_label": "Chapter 4 - The AI Brain with NVIDIA Isaac"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3 - Digital Twins and Simulation",
+    "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter3"
   }
 }

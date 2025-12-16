@@ -32,7 +32,7 @@ export default function Home() {
       <main>
         <div className="container">
           <div className="row">
-            <div className="col col--4">
+            <div className="col col--6">
               <div className="card">
                 <div className="card__header">
                   <h3>Chapter 1: Foundations of Physical AI</h3>
@@ -47,7 +47,7 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            <div className="col col--4">
+            <div className="col col--6">
               <div className="card">
                 <div className="card__header">
                   <h3>Chapter 2: The Robotic Nervous System (ROS 2)</h3>
@@ -62,17 +62,34 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            <div className="col col--4">
+          </div>
+          <div className="row" style={{marginTop: '20px'}}>
+            <div className="col col--6">
               <div className="card">
                 <div className="card__header">
-                  <h3>Book Overview</h3>
+                  <h3>Chapter 3: Digital Twins and Simulation</h3>
                 </div>
                 <div className="card__body">
-                  <p>This textbook explores the intersection of artificial intelligence and robotics, focusing on embodied intelligence and the practical implementation of AI in physical systems.</p>
+                  <p>Discover how digital twins and simulation enable the safe, efficient, and iterative development of Physical AI systems using tools like Isaac Sim and Unity.</p>
                 </div>
                 <div className="card__footer">
-                  <Link to="/docs/chapters/chapter1" className="button button--secondary">
-                    View All Chapters
+                  <Link to="/docs/chapters/chapter3" className="button button--secondary">
+                    Read Chapter 3
+                  </Link>
+                </div>
+              </div>
+            </div>
+            <div className="col col--6">
+              <div className="card">
+                <div className="card__header">
+                  <h3>Chapter 4: The AI Brain with NVIDIA Isaac</h3>
+                </div>
+                <div className="card__body">
+                  <p>Explore how the "AI brain" powers humanoid robots through NVIDIA Isaac, including perception, planning, and control systems.</p>
+                </div>
+                <div className="card__footer">
+                  <Link to="/docs/chapters/chapter4" className="button button--secondary">
+                    Read Chapter 4
                   </Link>
                 </div>
               </div>

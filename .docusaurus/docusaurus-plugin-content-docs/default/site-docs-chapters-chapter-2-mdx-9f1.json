@@ -19,5 +19,9 @@
   "previous": {
     "title": "Chapter 1 - Foundations of Physical AI",
     "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter1"
+  },
+  "next": {
+    "title": "Chapter 3 - Digital Twins and Simulation",
+    "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter3"
   }
 }

@@ -86,6 +86,14 @@ const config = {
                 label: 'Chapter 2: The Robotic Nervous System (ROS 2)',
                 to: '/docs/chapters/chapter2',
               },
+              {
+                label: 'Chapter 3: Digital Twins and Simulation',
+                to: '/docs/chapters/chapter3',
+              },
+              {
+                label: 'Chapter 4: The AI Brain with NVIDIA Isaac',
+                to: '/docs/chapters/chapter4',
+              },
             ],
           },
           {
