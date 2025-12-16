@@ -320,7 +320,13 @@
     }
   },
   "docusaurus-plugin-content-pages": {
-    "default": null
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/physical-ai-humanoid-robotics-future/",
+        "source": "@site/src/pages/index.jsx"
+      }
+    ]
   },
   "docusaurus-plugin-debug": {},
   "docusaurus-theme-classic": {},

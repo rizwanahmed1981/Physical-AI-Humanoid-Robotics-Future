@@ -71,5 +71,12 @@
   "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter2-sections-cbd": {
     "__comp": "17896441",
     "content": "1035d96f"
+  },
+  "/physical-ai-humanoid-robotics-future/-3db": {
+    "__comp": "9dd8a0d2",
+    "__context": {
+      "plugin": "e9f21092"
+    },
+    "config": "5e9f5e1a"
   }
 }

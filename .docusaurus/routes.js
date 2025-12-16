@@ -98,6 +98,11 @@ export default [
     ]
   },
   {
+    path: '/physical-ai-humanoid-robotics-future/',
+    component: ComponentCreator('/physical-ai-humanoid-robotics-future/', '3db'),
+    exact: true
+  },
+  {
     path: '*',
     component: ComponentCreator('*'),
   },
