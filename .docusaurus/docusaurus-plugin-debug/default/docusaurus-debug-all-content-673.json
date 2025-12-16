@@ -9,8 +9,8 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/physical-ai-humanoid-robotics-future/docs",
-          "tagsPath": "/physical-ai-humanoid-robotics-future/docs/tags",
+          "path": "/Physical-AI-Humanoid-Robotics-Future/docs",
+          "tagsPath": "/Physical-AI-Humanoid-Robotics-Future/docs/tags",
           "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs",
           "editUrlLocalized": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
@@ -26,7 +26,7 @@
               "source": "@site/docs/chapters/chapter1.md",
               "sourceDirName": "chapters",
               "slug": "/chapters/chapter1",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter1",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter1",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/chapters/chapter1.md",
@@ -39,7 +39,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Chapter 2 - The Robotic Nervous System (ROS 2)",
-                "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter2"
+                "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter2"
               }
             },
             {
@@ -49,7 +49,7 @@
               "source": "@site/docs/chapters/chapter2.mdx",
               "sourceDirName": "chapters",
               "slug": "/chapters/chapter2",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter2",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter2",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/chapters/chapter2.mdx",
@@ -62,11 +62,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Chapter 1 - Foundations of Physical AI",
-                "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter1"
+                "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter1"
               },
               "next": {
                 "title": "Chapter 3 - Digital Twins and Simulation",
-                "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter3"
+                "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter3"
               }
             },
             {
@@ -76,7 +76,7 @@
               "source": "@site/docs/chapters/chapter3.mdx",
               "sourceDirName": "chapters",
               "slug": "/chapters/chapter3",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter3",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter3",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/chapters/chapter3.mdx",
@@ -89,11 +89,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Chapter 2 - The Robotic Nervous System (ROS 2)",
-                "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter2"
+                "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter2"
               },
               "next": {
                 "title": "Chapter 4 - The AI Brain with NVIDIA Isaac",
-                "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter4"
+                "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter4"
               }
             },
             {
@@ -103,7 +103,7 @@
               "source": "@site/docs/chapters/chapter4.mdx",
               "sourceDirName": "chapters",
               "slug": "/chapters/chapter4",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter4",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter4",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/chapters/chapter4.mdx",
@@ -116,11 +116,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Chapter 3 - Digital Twins and Simulation",
-                "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter3"
+                "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter3"
               },
               "next": {
                 "title": "Chapter 5 - Vision–Language–Action Systems",
-                "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter5"
+                "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter5"
               }
             },
             {
@@ -130,7 +130,7 @@
               "source": "@site/docs/chapters/chapter5.mdx",
               "sourceDirName": "chapters",
               "slug": "/chapters/chapter5",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter5",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter5",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/chapters/chapter5.mdx",
@@ -143,7 +143,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Chapter 4 - The AI Brain with NVIDIA Isaac",
-                "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter4"
+                "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter4"
+              },
+              "next": {
+                "title": "Chapter 6 - Capstone Project",
+                "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter6"
               }
             },
             {
@@ -153,7 +157,7 @@
               "source": "@site/docs/chapters/chapter5-summary.md",
               "sourceDirName": "chapters",
               "slug": "/chapters/chapter5-summary",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter5-summary",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter5-summary",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/chapters/chapter5-summary.md",
@@ -162,13 +166,36 @@
               "frontMatter": {}
             },
             {
+              "id": "chapters/chapter6",
+              "title": "Chapter 6 - Capstone Project - Simulated Autonomous Humanoid Robot",
+              "description": "Welcome to the final chapter of this textbook, where we bring together all the concepts you've learned to create a complete, simulated autonomous humanoid robot system. This capstone project demonstrates how all the components of Physical AI work together in a cohesive system.",
+              "source": "@site/docs/chapters/chapter6.mdx",
+              "sourceDirName": "chapters",
+              "slug": "/chapters/chapter6",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter6",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/chapters/chapter6.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Chapter 6 - Capstone Project - Simulated Autonomous Humanoid Robot",
+                "sidebar_label": "Chapter 6 - Capstone Project"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 5 - Vision–Language–Action Systems",
+                "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter5"
+              }
+            },
+            {
               "id": "chapters/template",
               "title": "Chapter Template",
               "description": "This is a template for textbook chapters.",
               "source": "@site/docs/chapters/template.md",
               "sourceDirName": "chapters",
               "slug": "/chapters/template",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/template",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/template",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/chapters/template.md",
@@ -186,7 +213,7 @@
               "source": "@site/docs/quizzes/chapter1-section1.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter1-section1",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-section1",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter1-section1",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter1-section1.md",
@@ -203,7 +230,7 @@
               "source": "@site/docs/quizzes/chapter1-section2.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter1-section2",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-section2",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter1-section2",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter1-section2.md",
@@ -220,7 +247,7 @@
               "source": "@site/docs/quizzes/chapter1-section3.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter1-section3",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-section3",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter1-section3",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter1-section3.md",
@@ -237,7 +264,7 @@
               "source": "@site/docs/quizzes/chapter1-section4.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter1-section4",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-section4",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter1-section4",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter1-section4.md",
@@ -254,7 +281,7 @@
               "source": "@site/docs/quizzes/chapter1-section5.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter1-section5",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-section5",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter1-section5",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter1-section5.md",
@@ -271,7 +298,7 @@
               "source": "@site/docs/quizzes/chapter1-sections.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter1-sections",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter1-sections",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter1-sections",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter1-sections.md",
@@ -288,7 +315,7 @@
               "source": "@site/docs/quizzes/chapter2-section1.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter2-section1",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter2-section1",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter2-section1",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter2-section1.md",
@@ -306,7 +333,7 @@
               "source": "@site/docs/quizzes/chapter2-section2.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter2-section2",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter2-section2",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter2-section2",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter2-section2.md",
@@ -324,7 +351,7 @@
               "source": "@site/docs/quizzes/chapter2-section3.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter2-section3",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter2-section3",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter2-section3",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter2-section3.md",
@@ -342,7 +369,7 @@
               "source": "@site/docs/quizzes/chapter2-section4.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter2-section4",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter2-section4",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter2-section4",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter2-section4.md",
@@ -360,7 +387,7 @@
               "source": "@site/docs/quizzes/chapter2-section5.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter2-section5",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter2-section5",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter2-section5",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter2-section5.md",
@@ -378,7 +405,7 @@
               "source": "@site/docs/quizzes/chapter2-sections.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter2-sections",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter2-sections",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter2-sections",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter2-sections.md",
@@ -396,7 +423,7 @@
               "source": "@site/docs/quizzes/chapter3-section1.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter3-section1",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter3-section1",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter3-section1",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter3-section1.md",
@@ -414,7 +441,7 @@
               "source": "@site/docs/quizzes/chapter3-section2.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter3-section2",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter3-section2",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter3-section2",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter3-section2.md",
@@ -432,7 +459,7 @@
               "source": "@site/docs/quizzes/chapter3-section3.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter3-section3",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter3-section3",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter3-section3",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter3-section3.md",
@@ -450,7 +477,7 @@
               "source": "@site/docs/quizzes/chapter3-section4.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter3-section4",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter3-section4",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter3-section4",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter3-section4.md",
@@ -468,7 +495,7 @@
               "source": "@site/docs/quizzes/chapter3-section5.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter3-section5",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter3-section5",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter3-section5",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter3-section5.md",
@@ -486,7 +513,7 @@
               "source": "@site/docs/quizzes/chapter3-section6.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter3-section6",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter3-section6",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter3-section6",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter3-section6.md",
@@ -504,7 +531,7 @@
               "source": "@site/docs/quizzes/chapter3-sections.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter3-sections",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter3-sections",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter3-sections",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter3-sections.md",
@@ -522,7 +549,7 @@
               "source": "@site/docs/quizzes/chapter4-section1.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter4-section1",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter4-section1",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter4-section1",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter4-section1.md",
@@ -540,7 +567,7 @@
               "source": "@site/docs/quizzes/chapter4-section2.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter4-section2",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter4-section2",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter4-section2",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter4-section2.md",
@@ -558,7 +585,7 @@
               "source": "@site/docs/quizzes/chapter4-section3.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter4-section3",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter4-section3",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter4-section3",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter4-section3.md",
@@ -576,7 +603,7 @@
               "source": "@site/docs/quizzes/chapter4-section4.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter4-section4",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter4-section4",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter4-section4",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter4-section4.md",
@@ -594,7 +621,7 @@
               "source": "@site/docs/quizzes/chapter4-section5.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter4-section5",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter4-section5",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter4-section5",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter4-section5.md",
@@ -612,7 +639,7 @@
               "source": "@site/docs/quizzes/chapter4-section6.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter4-section6",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter4-section6",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter4-section6",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter4-section6.md",
@@ -630,7 +657,7 @@
               "source": "@site/docs/quizzes/chapter4-sections.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter4-sections",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter4-sections",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter4-sections",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter4-sections.md",
@@ -648,7 +675,7 @@
               "source": "@site/docs/quizzes/chapter5-section1.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter5-section1",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter5-section1",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter5-section1",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter5-section1.md",
@@ -666,7 +693,7 @@
               "source": "@site/docs/quizzes/chapter5-section2.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter5-section2",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter5-section2",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter5-section2",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter5-section2.md",
@@ -684,7 +711,7 @@
               "source": "@site/docs/quizzes/chapter5-section3.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter5-section3",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter5-section3",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter5-section3",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter5-section3.md",
@@ -702,7 +729,7 @@
               "source": "@site/docs/quizzes/chapter5-section4.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter5-section4",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter5-section4",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter5-section4",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter5-section4.md",
@@ -720,7 +747,7 @@
               "source": "@site/docs/quizzes/chapter5-section5.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter5-section5",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter5-section5",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter5-section5",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter5-section5.md",
@@ -738,7 +765,7 @@
               "source": "@site/docs/quizzes/chapter5-section6.md",
               "sourceDirName": "quizzes",
               "slug": "/quizzes/chapter5-section6",
-              "permalink": "/physical-ai-humanoid-robotics-future/docs/quizzes/chapter5-section6",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter5-section6",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter5-section6.md",
@@ -748,6 +775,96 @@
                 "title": "Chapter 5 Section 6 Quiz - Safety, Constraints, and Failure Modes",
                 "sidebar_label": "Chapter 5 Section 6 Quiz"
               }
+            },
+            {
+              "id": "quizzes/chapter6-section1",
+              "title": "Chapter 6 - Capstone Project - Simulated Autonomous Humanoid Robot",
+              "description": "Chapter 6 Section 1 Quiz",
+              "source": "@site/docs/quizzes/chapter6-section1.md",
+              "sourceDirName": "quizzes",
+              "slug": "/quizzes/chapter6-section1",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter6-section1",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter6-section1.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "id": "quizzes/chapter6-section2",
+              "title": "Chapter 6 - Capstone Project - Simulated Autonomous Humanoid Robot",
+              "description": "Chapter 6 Section 2 Quiz",
+              "source": "@site/docs/quizzes/chapter6-section2.md",
+              "sourceDirName": "quizzes",
+              "slug": "/quizzes/chapter6-section2",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter6-section2",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter6-section2.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "id": "quizzes/chapter6-section3",
+              "title": "Chapter 6 - Capstone Project - Simulated Autonomous Humanoid Robot",
+              "description": "Chapter 6 Section 3 Quiz",
+              "source": "@site/docs/quizzes/chapter6-section3.md",
+              "sourceDirName": "quizzes",
+              "slug": "/quizzes/chapter6-section3",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter6-section3",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter6-section3.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "id": "quizzes/chapter6-section4",
+              "title": "Chapter 6 - Capstone Project - Simulated Autonomous Humanoid Robot",
+              "description": "Chapter 6 Section 4 Quiz",
+              "source": "@site/docs/quizzes/chapter6-section4.md",
+              "sourceDirName": "quizzes",
+              "slug": "/quizzes/chapter6-section4",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter6-section4",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter6-section4.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "id": "quizzes/chapter6-section5",
+              "title": "Chapter 6 - Capstone Project - Simulated Autonomous Humanoid Robot",
+              "description": "Chapter 6 Section 5 Quiz",
+              "source": "@site/docs/quizzes/chapter6-section5.md",
+              "sourceDirName": "quizzes",
+              "slug": "/quizzes/chapter6-section5",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter6-section5",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter6-section5.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "id": "quizzes/chapter6-sections",
+              "title": "Chapter 6 - Capstone Project - Simulated Autonomous Humanoid Robot",
+              "description": "Chapter 6 Comprehensive Quiz",
+              "source": "@site/docs/quizzes/chapter6-sections.md",
+              "sourceDirName": "quizzes",
+              "slug": "/quizzes/chapter6-sections",
+              "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/quizzes/chapter6-sections",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/quizzes/chapter6-sections.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
             }
           ],
           "drafts": [],
@@ -776,6 +893,10 @@
                   {
                     "type": "doc",
                     "id": "chapters/chapter5"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chapters/chapter6"
                   }
                 ],
                 "collapsed": true,
@@ -791,7 +912,7 @@
     "default": [
       {
         "type": "jsx",
-        "permalink": "/physical-ai-humanoid-robotics-future/",
+        "permalink": "/Physical-AI-Humanoid-Robotics-Future/",
         "source": "@site/src/pages/index.jsx"
       }
     ]
