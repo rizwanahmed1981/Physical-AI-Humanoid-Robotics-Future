@@ -8,6 +8,7 @@ const sidebars = {
       label: 'Textbook Chapters',
       items: [
         'chapters/chapter1',
+        'chapters/chapter2',
       ],
     },
   ],
