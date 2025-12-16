@@ -22,11 +22,13 @@
             },
             {
               "id": "chapters/chapter3",
-              "path": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter3"
+              "path": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter3",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "chapters/chapter4",
-              "path": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter4"
+              "path": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter4",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "chapters/template",

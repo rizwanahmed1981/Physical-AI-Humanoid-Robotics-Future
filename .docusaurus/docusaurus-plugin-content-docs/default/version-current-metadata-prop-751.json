@@ -26,6 +26,20 @@
             "href": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter2",
             "docId": "chapters/chapter2",
             "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chapter 3 - Digital Twins and Simulation",
+            "href": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter3",
+            "docId": "chapters/chapter3",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chapter 4 - The AI Brain with NVIDIA Isaac",
+            "href": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter4",
+            "docId": "chapters/chapter4",
+            "unlisted": false
           }
         ],
         "collapsed": true,
@@ -49,12 +63,14 @@
     "chapters/chapter3": {
       "id": "chapters/chapter3",
       "title": "Chapter 3 - Digital Twins and Simulation",
-      "description": "Welcome to Chapter 3, where we explore how digital twins and simulation enable the safe, efficient, and iterative development of Physical AI systems. Just as architects create digital models before building physical structures, roboticists use digital twins and simulation to test and refine AI algorithms before deploying them on real robots."
+      "description": "Welcome to Chapter 3, where we explore how digital twins and simulation enable the safe, efficient, and iterative development of Physical AI systems. Just as architects create digital models before building physical structures, roboticists use digital twins and simulation to test and refine AI algorithms before deploying them on real robots.",
+      "sidebar": "tutorialSidebar"
     },
     "chapters/chapter4": {
       "id": "chapters/chapter4",
       "title": "Chapter 4 - The AI Brain with NVIDIA Isaac",
-      "description": "Welcome to Chapter 4, where we explore how the \"AI brain\" powers humanoid robots. Just as the human brain coordinates thoughts, perceptions, and actions, the AI brain in a robot integrates perception, planning, and control to create intelligent behavior. This chapter introduces NVIDIA Isaac, a powerful platform that provides the computational foundation for these AI systems."
+      "description": "Welcome to Chapter 4, where we explore how the \"AI brain\" powers humanoid robots. Just as the human brain coordinates thoughts, perceptions, and actions, the AI brain in a robot integrates perception, planning, and control to create intelligent behavior. This chapter introduces NVIDIA Isaac, a powerful platform that provides the computational foundation for these AI systems.",
+      "sidebar": "tutorialSidebar"
     },
     "chapters/template": {
       "id": "chapters/template",

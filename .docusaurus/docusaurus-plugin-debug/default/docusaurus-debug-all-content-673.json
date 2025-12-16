@@ -63,6 +63,10 @@
               "previous": {
                 "title": "Chapter 1 - Foundations of Physical AI",
                 "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter1"
+              },
+              "next": {
+                "title": "Chapter 3 - Digital Twins and Simulation",
+                "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter3"
               }
             },
             {
@@ -81,6 +85,15 @@
               "frontMatter": {
                 "title": "Chapter 3 - Digital Twins and Simulation",
                 "sidebar_label": "Chapter 3 - Digital Twins and Simulation"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 2 - The Robotic Nervous System (ROS 2)",
+                "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter2"
+              },
+              "next": {
+                "title": "Chapter 4 - The AI Brain with NVIDIA Isaac",
+                "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter4"
               }
             },
             {
@@ -99,6 +112,11 @@
               "frontMatter": {
                 "title": "Chapter 4 - The AI Brain with NVIDIA Isaac",
                 "sidebar_label": "Chapter 4 - The AI Brain with NVIDIA Isaac"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 3 - Digital Twins and Simulation",
+                "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter3"
               }
             },
             {
@@ -596,6 +614,14 @@
                   {
                     "type": "doc",
                     "id": "chapters/chapter2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chapters/chapter3"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chapters/chapter4"
                   }
                 ],
                 "collapsed": true,
