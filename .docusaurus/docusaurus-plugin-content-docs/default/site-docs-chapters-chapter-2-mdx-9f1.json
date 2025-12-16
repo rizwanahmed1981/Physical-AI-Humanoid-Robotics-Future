@@ -5,7 +5,7 @@
   "source": "@site/docs/chapters/chapter2.mdx",
   "sourceDirName": "chapters",
   "slug": "/chapters/chapter2",
-  "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter2",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter2",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/docs/chapters/chapter2.mdx",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chapter 1 - Foundations of Physical AI",
-    "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter1"
+    "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter1"
   },
   "next": {
     "title": "Chapter 3 - Digital Twins and Simulation",
-    "permalink": "/physical-ai-humanoid-robotics-future/docs/chapters/chapter3"
+    "permalink": "/Physical-AI-Humanoid-Robotics-Future/docs/chapters/chapter3"
   }
 }

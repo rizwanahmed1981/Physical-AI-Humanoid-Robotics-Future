@@ -8,9 +8,9 @@ export default {
   "tagline": "Bridging Digital AI with Embodied Intelligence",
   "favicon": "/img/favicon.ico",
   "url": "https://rizwanahmed1981.github.io",
-  "baseUrl": "/physical-ai-humanoid-robotics-future/",
+  "baseUrl": "/Physical-AI-Humanoid-Robotics-Future/",
   "organizationName": "rizwanahmed1981",
-  "projectName": "physical-ai-humanoid-robotics-future",
+  "projectName": "Physical-AI-Humanoid-Robotics-Future",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
