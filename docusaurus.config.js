@@ -37,7 +37,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future/edit/main/',
+            'https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future/edit/main/',
         },
         blog: false,
         theme: {
@@ -66,7 +66,7 @@ const config = {
             label: 'Textbook',
           },
           {
-            href: 'https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future',
+            href: 'https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future',
             label: 'GitHub',
             position: 'right',
           },
@@ -118,7 +118,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/rizwanahmed1981/physical-ai-humanoid-robotics-future',
+                href: 'https://github.com/rizwanahmed1981/Physical-AI-Humanoid-Robotics-Future',
               },
             ],
           },
